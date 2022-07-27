@@ -1,2 +1,2 @@
-# git-use-demo
-for study git
+# PYG shopping website
+ study case 
